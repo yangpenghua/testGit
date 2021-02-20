@@ -1,0 +1,9 @@
+platform :ios, '8.0'
+
+target 'TestGit' do
+
+pod 'AFNetworking','3.1.0'
+pod 'CYLTabBarController', '~> 1.26.0'
+pod 'AvoidCrash', '~> 2.5.2'
+
+end
